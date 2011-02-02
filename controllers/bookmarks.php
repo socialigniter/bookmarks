@@ -1,5 +1,5 @@
 <?php
-class Bookmarks extends Public_Controller
+class Bookmarks extends Site_Controller
 {
     function __construct()
     {
