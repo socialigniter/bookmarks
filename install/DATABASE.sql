@@ -1,3 +1,5 @@
+INSERT INTO `settings` VALUES(NULL, 1, 'bookmarks', 'widgets', 'TRUE');
+INSERT INTO `settings` VALUES(NULL, 1, 'bookmarks', 'categories', 'TRUE');
 INSERT INTO `settings` VALUES(NULL, 1, 'bookmarks', 'enabled', 'TRUE');
 INSERT INTO `settings` VALUES(NULL, 1, 'bookmarks', 'date_style', 'DIGITS');
 INSERT INTO `settings` VALUES(NULL, 1, 'bookmarks', 'categories_display', 'yes');
